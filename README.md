@@ -39,15 +39,13 @@ Capable of multitasking.
 
 ## Experience
 
-**Knotel** (October 2018 to January 2019)    
-Assistant
+**Knotel** (October 2018 to January 2019) - Assistant
 
 Helped efficeny in comparing offers from custmoers (mostly in google docs/sheets)
 Showing property to customers
 Catalogin products
 
-**Charterhouse** (2015-2016)
-Guide
+**Charterhouse** (2015-2016) - Guide
 
 Provided tours of the campus for parents and children
 Answered any questions about life, education and facilities
