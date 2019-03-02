@@ -1,29 +1,30 @@
-## Your Name
+## Mat Shup
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Eager, enthusiastic and fast learning individual who completes tasks with precision and care. Mat puts
+customer and employer satisfaction at the top of his list of priorities. Currently seeking to explore limits in
+all fields and build on existing knowledge of computing and customer care.
 
-## Skills
+## Personal Information
 
-#### This Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Highly motivated and focused, approachable and friendly.
 
-- Experience
-- Achievements
-- Evidence
+Consistently provides a high standard of customer care and satisfaction.
 
-#### Another Skill
+Fast learner and able to adapt to new and exciting situations.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Ability to assess quickly a customers wants and needs.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Well traveled and cultured.
+
+Speaks English and Russian.
+
+Capable of multitasking.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (start_date to end_date) 
+(Work in progress)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +35,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Knotel** (October 2018 to January 2019)    
+Assistant
+
+**Charterhouse** (2015-2016)
+Guide
+
